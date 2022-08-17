@@ -17,11 +17,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ziyadh95/backend.git"
+    "url": "git+https://github.com/ziyadh95/ziya_uas_backend.git"
   },
   "bugs": {
-    "url": "https://github.com/ziyadh95/backend/issues"
+    "url": "https://github.com/ziyadh95/ziya_uas_backend/issues"
   },
-  "homepage": "https://github.com/ziyadh95/backend#readme",
+  "homepage": "https://github.com/ziyadh95/ziya_uas_backend#readme",
   "description": ""
 }
