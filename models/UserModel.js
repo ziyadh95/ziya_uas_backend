@@ -5,14 +5,26 @@ const User = mongoose.Schema({
         type: String,
         required: true
     },
-    email:{
+    nim:{
+        type: Number,
+        required: true
+    },
+    kelas:{
         type: String,
         required: true
     },
-    gender:{
+    semester:{
+        type: Number,
+        required: true
+    },
+    jenis_kelamin:{
         type: String,
         required: true
-    }
+    },
+    alamat:{
+        type: String,
+        required: true
+    },
 });
  
 export default mongoose.model('Users', User);
